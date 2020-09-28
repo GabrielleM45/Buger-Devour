@@ -9,21 +9,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/GabrielleM45/Buger-Devour.git"
+        "url": "git+https://github.com/GabrielleM45/Burger-Devour.git"
     },
     "author": "Gabrielle Maxey",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/GabrielleM45/Buger-Devour/issues"
+        "url": "https://github.com/GabrielleM45/Burger-Devour/issues"
     },
-    "homepage": "https://github.com/GabrielleM45/Buger-Devour#readme",
+    "homepage": "https://github.com/GabrielleM45/Burger-Devour#readme",
     "dependencies": {
         "express": "^4.17.1",
         "express-handlebars": "^5.1.0",
-        "mime": "^2.4.6",
-        "mime-db": "^1.45.0",
-        "mime-types": "^2.1.27",
         "mysql": "^2.18.1",
-        "dotenv": "^8.2.0"
     }
 }
